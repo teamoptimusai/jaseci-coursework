@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Chandra Irugalbandara",
+        "date_of_birth": "1996-02-10",
+        "profession": "Machine Learning Engineer",
+        "parents": {
+            "father": "Sujeewa Rathnakumara",
+            "mother": "Damayanthi Manike"
+        },
+        "deceased": false,
+        "children": [],
+        "spouse": null,
+        "gender": "Male"
+    },
+    {
+        "name": "Sujeewa Rathnakumara",
+        "date_of_birth": "1966-02-10",
+        "profession": "Mechanical Engineer",
+        "parents": {
+            "father": "Rathnakumara",
+            "mother": "Sujatha"
+        },
+        "deceased": true,
+        "children": [
+            "Chandra Irugalbandara",
+            "Vishwa Irugalbandara",
+            "Darsha Irugalbandara"
+        ],
+        "spouse": "Damayanthi Manike",
+        "gender": "Male"
+    },
+    {
+        "name": "Damayanthi Manike",
+        "date_of_birth": "1966-02-10",
+        "profession": "Housewife",
+        "parents": {
+            "father": "Manike",
+            "mother": "Sujatha"
+        },
+        "deceased": false,
+        "children": [
+            "Chandra Irugalbandara",
+            "Vishwa Irugalbandara",
+            "Darsha Irugalbandara"
+        ],
+        "spouse": "Sujeewa Rathnakumara",
+        "gender": "Female"
+    },
+    {
+        "name": "Vishwa Irugalbandara",
+        "date_of_birth": "1994-03-19",
+        "profession": "Doctor",
+        "parents": {
+            "father": "Sujeewa Rathnakumara",
+            "mother": "Damayanthi Manike"
+        },
+        "deceased": false,
+        "children": [],
+        "spouse": null,
+        "gender": "Female"
+    },
+    {
+        "name": "Darsha Irugalbandara",
+        "date_of_birth": "1996-06-23",
+        "profession": "US Coast Guard Office",
+        "parents": {
+            "father": "Sujeewa Rathnakumara",
+            "mother": "Damayanthi Manike"
+        },
+        "deceased": false,
+        "children": [],
+        "spouse": null,
+        "gender": "Male"
+    }
+]

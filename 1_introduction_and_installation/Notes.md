@@ -70,3 +70,9 @@ Running the Chatbot Example
 ```bash
 jac run main.jac
 ```
+
+## Assignments
+1. Go through the [Jaseci Documentation](docs.jaseci.org) and try to understand the concepts.
+2. Build a simple chatbot using the Tfm_ner (Transformer based Named Entity Recognition) module. You can use the [Jaseci Documentation](docs.jaseci.org) to help you.
+3. Add your own sass to the chatbot. Experiment with different things.
+4. Present your chatbot to the class.

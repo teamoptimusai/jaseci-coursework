@@ -1,13 +1,9 @@
-edge married;
-edge children;
+import {*} with "./graph.jac";
+import {*} with "./util.jac";
 
-node person {
-    has name;
-    has date_of_birth;
-    has profession;
-    has gender;
-    has deceased;
-    has parents;
-    has children;
-    has spouse;
+walker init {
+    root {
+        spawn here ++> node::family_root;
+        spawn here walker::load_familytree;
+    }
 }
